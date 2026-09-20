@@ -112,9 +112,10 @@ The dashboard includes:
 
 This visualization helps analyze the relationship between purchase frequency and customer spending.
 
-### Dashboard Link
+### Dashboard 
 
-[View Power BI Dashboard](YOUR_DASHBOARD_LINK_HERE)
+<img width="1298" height="728" alt="image" src="https://github.com/user-attachments/assets/13566716-f000-4881-83ce-9b7df4211376" />
+
 
 ---
 
