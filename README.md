@@ -135,17 +135,6 @@ This visualization helps analyze the relationship between purchase frequency and
 * Monitor customer purchasing behavior to identify changes in activity.
 * Use RFM segments to support targeted marketing strategies.
 
----
-
-## Project Structure
-
-```text
-E-Commerce-Customer-Segmentation/
-│
-├── E-Commerce Customer Segmentation.ipynb
-├── README.md
-└── Power BI Dashboard
-```
 
 ---
 
