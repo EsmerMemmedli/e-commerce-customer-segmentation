@@ -1,5 +1,5 @@
-````markdown
-# E-Commerce Customer Segmentation
+
+### E-Commerce Customer Segmentation
 
 ## Project Overview
 
@@ -158,12 +158,3 @@ E-Commerce-Customer-Segmentation/
 * [x] Business Recommendations
 
 ---
-
-## Author
-
-**Əsmər Məmmədli**
-
-*Aspiring Data Analyst*
-
-```
-```
