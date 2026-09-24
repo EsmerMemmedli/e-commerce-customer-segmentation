@@ -138,7 +138,7 @@ This visualization helps analyze the relationship between purchase frequency and
 
 ---
 
-## Project Status
+
 
 * [x] Data Cleaning
 * [x] RFM Analysis
@@ -147,4 +147,4 @@ This visualization helps analyze the relationship between purchase frequency and
 * [x] Data Visualization
 * [x] Business Recommendations
 
----
+
